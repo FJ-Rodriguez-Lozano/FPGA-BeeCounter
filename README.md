@@ -14,10 +14,10 @@ Latex:
 	url = {xxx},
 	year = 2024,
 	month = {Feb},
-	publisher = {IEEE?},
-	author = {Francisco J. Rodriguez-Lozano and Juan C. G{\'{a}}mez-Granados and H{\'{e}}ctor Mart{\'{\i}}nez and Jose M. Palomares and Joaqu{\'{\i}}n Olivares},
+	publisher = {xxx},
+	author = {Francisco J. Quiles-Latorre, Manuel Ortiz-Lopez, Francisco J. Rodriguez-Lozano, M.Brox and Jos{\'{e}} M. Flores},
 	title = {FPGA-based bee counter system},
-	journal = {IEEE Access?}
+	journal = {xxx}
 }
 ```
 IEEE: not published yet.
