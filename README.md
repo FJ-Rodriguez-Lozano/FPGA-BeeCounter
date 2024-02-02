@@ -1,4 +1,4 @@
-![alt text](https://github.com/FJ-Rodriguez-Lozano/FPGA-BeeCounter/blob/main/RepositoryImage.pdf?raw=true)
+![alt text](https://github.com/FJ-Rodriguez-Lozano/FPGA-BeeCounter/blob/main/RepositoryImage.png?raw=true)
 
 # FPGA-BeeCounter
 FPGA-BeeCounter repository contains the electrical schematics of the bee counter developed in the scientific paper titled: ["*FPGA-based bee counter system*"](link). The aim of this work is the creation of a bee counter system that is capable to measure precisely the inputs and outputs of a bee hive.
